@@ -1,2 +1,2 @@
 # texttogenerator
-basic text to generator
+basic text to music AI generator
